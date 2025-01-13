@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Hi, I'M Shaleen Muiruri
+# 👩🏽‍💻 Hi, I'm Shaleen!
 
 ## ⭐️ About Me:
 I'm a software engineer who loves turning exciting ideas into real-life innovations. With a love for web development and a passion for crafting engaging user experiences, I find joy in bridging design and technology.
@@ -19,10 +19,14 @@ I'm a software engineer who loves turning exciting ideas into real-life innovati
 - Improved development and deployment efficiency by implementing a trunk-based CI/CD pipeline, achieving a 95% build success rate and cutting time-to-market by 30%.
 - Mentored interns, enhancing team productivity by 20% and elevating overall code quality.
 
+## 🎓 Education:
+**Strathmore University** - Bachelor of Business Science in **Financial Engineering**
+
 ## 🌎 Mission Alignment:
-I’m passionate about crafting seamless, visually engaging experiences that resonate with users. With empathy and a futuristic mindset, I create intuitive, interactive designs that inspire, anticipate needs, and bridge the gap between technology and human connection.
+I’m passionate about crafting seamless, visually engaging experiences that resonate with users. With empathy and a futuristic mindset, I create intuitive, interactive designs that inspire, anticipate needs, and transform complex problems into simple, elegant solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaleenmuiruri/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shaleenmuiruri) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
