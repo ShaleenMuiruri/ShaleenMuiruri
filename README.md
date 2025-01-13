@@ -29,6 +29,4 @@ I’m passionate about crafting seamless, visually engaging experiences that res
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaleenmuiruri/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shaleenmuiruri) 
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
