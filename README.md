@@ -8,8 +8,7 @@ I'm a Software Engineer who loves turning exciting ideas into real-life innovati
 
 ## 💼 Experience:
 ### Chpter Ltd
-🚀 Frontend Engineer <br>  
-*May 2022 - Present*
+🚀 Frontend Engineer <span style="display: block; margin-top: -10px;">*May 2022 - Present*</span>
 
 - Integrated the Chpter platform with Meta’s platforms (WhatsApp, Instagram, Facebook), enabling real-time reporting as a Meta Business Partner.
 - Developed and delivered 10+ key user interface features, boosting user engagement by 25%.
