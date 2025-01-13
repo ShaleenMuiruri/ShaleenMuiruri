@@ -8,15 +8,16 @@ I'm a software engineer who loves turning exciting ideas into real-life innovati
 
 ## 💼 Experience:
 ### Chpter Ltd
-**Frontend Engineer (May 2022 - Present)
+🚀 Frontend Engineer 
+*May 2022 - Present*
 
-- ** Integrated the Chpter platform with Meta’s platforms (WhatsApp, Instagram, Facebook), enabling real-time reporting as a Meta Business Partner.
-- ** Developed and delivered 10+ key user interface features, boosting user engagement by 25%.
-- ** Optimized front-end performance with lazy loading, code splitting, and state management, reducing page load times by 40% and improving Core Web Vitals scores.
-- ** Spearheaded a design system implementation to streamline UI/UX, ensuring consistency across the platform.
-- ** Reduced regressions by 70% by introducing and leading efforts to write unit and functional tests for frontend components.
-- ** Improved development and deployment efficiency by implementing a trunk-based CI/CD pipeline, achieving a 95% build success rate and cutting time-to-market by 30%.
-- ** Mentored interns, enhancing team productivity by 20% and elevating overall code quality.
+- Integrated the Chpter platform with Meta’s platforms (WhatsApp, Instagram, Facebook), enabling real-time reporting as a Meta Business Partner.
+- Developed and delivered 10+ key user interface features, boosting user engagement by 25%.
+- Optimized front-end performance with lazy loading, code splitting, and state management, reducing page load times by 40% and improving Core Web Vitals scores.
+- Spearheaded a design system implementation to streamline UI/UX, ensuring consistency across the platform.
+- Reduced regressions by 70% by introducing and leading efforts to write unit and functional tests for frontend components.
+- Improved development and deployment efficiency by implementing a trunk-based CI/CD pipeline, achieving a 95% build success rate and cutting time-to-market by 30%.
+- Mentored interns, enhancing team productivity by 20% and elevating overall code quality.
 
 ## 🌎 Mission Alignment:
 I’m passionate about crafting seamless, visually engaging experiences that resonate with users. With empathy and a futuristic mindset, I create intuitive, interactive designs that inspire, anticipate needs, and bridge the gap between technology and human connection.
